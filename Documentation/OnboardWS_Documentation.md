@@ -131,13 +131,9 @@ Calculates the fire safety rating and ignition component based on the data colle
  Ignition Component (%) | Rating
  --- | ---
  <10 | VERY LOW
- --- | ---
  <25 | LOW
- --- | ---
  <40 | MODERATE
- --- | ---
  <70 | HIGH
- --- | ---
  >70 | VERY HIGH
 
 ### Interrupt Functions
