@@ -128,13 +128,13 @@ Collects current readings for the attached sensors. This function is called once
 void getFireSafetyRating()
 ```
 Calculates the fire safety rating and ignition component based on the data collected this cycle. The fire safety rating is defined by the following:
- Ignition Component (%) | Rating
- --- | ---
- <10 | VERY LOW
- <25 | LOW
- <40 | MODERATE
- <70 | HIGH
- >70 | VERY HIGH
+
+
+ <10 - VERY LOW
+ <25 - LOW
+ <40 - MODERATE
+ <70 - HIGH
+ >70 - VERY HIGH
 
 ### Interrupt Functions
 
